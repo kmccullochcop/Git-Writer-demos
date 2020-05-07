@@ -43,7 +43,7 @@
 	"@id": "https://raw.githubusercontent.com/kmccullochcop/Git-Writer-demos/master/DisneyLetter1938-beforeStructuralTagging?place_annotation_20200507153814713",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-05-07T19:38:14.713Z",
-	"dcterms:issued": "2020-05-07T19:48:13.496Z",
+	"dcterms:issued": "2020-05-07T19:59:49.555Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kmccullochcop",
 		"@type": [
@@ -120,7 +120,7 @@
 	"@id": "https://raw.githubusercontent.com/kmccullochcop/Git-Writer-demos/master/DisneyLetter1938-beforeStructuralTagging?date_annotation_20200507154401720",
 	"@type": "oa:Annotation",
 	"dcterms:created": "2020-05-07T19:44:01.720Z",
-	"dcterms:issued": "2020-05-07T19:48:13.503Z",
+	"dcterms:issued": "2020-05-07T19:59:49.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/kmccullochcop",
 		"@type": [
@@ -169,16 +169,16 @@
             <pb facs="https://live.staticflickr.com/1129/632255233_213684641e_o.jpg" n="1"/><div type="letter">
                 
 
-                <head n="1" rend="normal">Disney rejection letter to women, 1938</head><opener><dateline><date cert="high" when="1938-06-07">June 7, 1938</date></dateline><persName>Miss Mary V. Ford</persName><address><addrLine><placeName ref="http://geonames.org/4130432" key="Searcy County Arkansas United States" cert="high">Searcy<precision match="@ref" precision="high"/></placeName></addrLine><addrLine><region>Arkansas</region></addrLine></address><salute>Dear Miss <surname>Ford</surname> </salute></opener><p>Your letter of recent date has been received in the Inking and Painting
+                <head n="1" rend="normal"><orgName key="Disney">Disney</orgName> rejection letter to women, 1938</head><opener><dateline><date cert="high" when="1938-06-07">June 7, 1938</date></dateline><persName>Miss Mary V. Ford</persName><address><addrLine><placeName ref="http://geonames.org/4130432" key="Searcy County Arkansas United States" cert="high">Searcy<precision match="@ref" precision="high"/></placeName></addrLine><addrLine><region><placeName key="Arkansas">Arkansas</placeName></region></addrLine></address><salute>Dear Miss <surname>Ford</surname> </salute></opener><p>Your letter of recent date has been received in the Inking and Painting
                     Department for reply.</p><p>Women do not do any of the creative work in connection with preparing the
                     cartoons for the screen, as that work is performed entirely by young men. For
                     this reason girls are not considered for the training school.</p><p>The only work open to women consists of tracing the characters on clear
                     celluloid sheets with Indian ink and filling in the tracings on the reverse side
                     with paint according to directions.</p><p>In order to apply for a position as “Inker” or “Painter” it is necessary that
                     one appear at the Studio, bringing samples of pen and ink and water color work.
-                    It would not be advisable to come to Hollywood with the above specifically in
+                    It would not be advisable to come to <placeName key="Hollywood">Hollywood</placeName> with the above specifically in
                     view, as there are really very few openings in comparison with the number of
                     girls who apply.</p><closer><salute>Yours very truly,</salute><signed><orgName>WALT DISNEY PRODUCTIONS, LTD.</orgName></signed><signed>By:</signed><signed ana="Mary Cleave">(Signed)</signed></closer></div>
-        </body><back><div><p><address><addrLine>Walt Disney Productions Ltd.</addrLine><addrLine>2719 Hyperion</addrLine><addrLine><placeName><settlement>Hollywood </settlement></placeName><placeName><region>Cal.</region></placeName></addrLine></address></p></div></back>
+        </body><back><div><p><address><addrLine><orgName>Walt Disney Productions Ltd.</orgName></addrLine><addrLine>2719 Hyperion</addrLine><addrLine><placeName><settlement>Hollywood </settlement></placeName><placeName><region>Cal.</region></placeName></addrLine></address></p></div></back>
     </text>
 </TEI>
